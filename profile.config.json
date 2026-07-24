@@ -1,0 +1,223 @@
+{
+  "profile": {
+    "name": "Udaya Pragna Gangavaram",
+    "github_username": "Udaya-P",
+    "tagline": "B.Tech CSE (AI & ML) | AI Research Intern | Software Engineering Enthusiast",
+    "about": "I'm a Computer Science (AI & ML) student at PES University with a passion for building intelligent software that solves real-world problems. My interests lie at the intersection of Software Engineering, Machine Learning, and Explainable AI, where I enjoy transforming research ideas into practical applications. Currently, I'm working on financial misinformation detection and explainable NLP systems while continuously strengthening my foundations in data structures, system design, and backend development.",
+    "location": "Bengaluru, Karnataka, India",
+    "university": "PES University, Bengaluru",
+    "graduation_year": "2027",
+    "email": "udayapragnag@gmail.com",
+    "linkedin": "https://linkedin.com/in/udaya-pragna-gangavaram",
+    "github": "https://github.com/Udaya-P",
+    "portfolio": "https://my-portfolio-phi-blush-71.vercel.app/",
+    "current_focus": [
+      "Financial misinformation detection",
+      "Explainable NLP systems",
+      "Backend fundamentals and system design"
+    ],
+    "currently_learning": [
+      "Advanced Data Structures & Algorithms",
+      "Dynamic Programming",
+      "Backend Development with Spring Boot",
+      "System Design",
+      "Agentic AI",
+      "Large Language Models"
+    ]
+  },
+  "design": {
+    "style": "Minimal + Technical",
+    "theme": "Balanced for both, slightly optimized for dark mode",
+    "portrait_image": "assets/img/portrait-render.jpg",
+    "tokens": {
+      "light": {
+        "bg": "#fffafc",
+        "surface": "#fff1f6",
+        "text": "#1f1720",
+        "muted": "#6f5c67",
+        "accent": "#ff8fab",
+        "accent_secondary": "#d86f90",
+        "line": "#e7c7d3"
+      },
+      "dark": {
+        "bg": "#111014",
+        "surface": "#1a171d",
+        "text": "#f7eef2",
+        "muted": "#c8b4be",
+        "accent": "#ff8fab",
+        "accent_secondary": "#ffc2d1",
+        "line": "#3a2a33"
+      }
+    },
+    "type_scale": {
+      "h1": 40,
+      "h2": 28,
+      "h3": 20,
+      "body": 16,
+      "small": 12
+    },
+    "radius": 24,
+    "spacing": 24,
+    "fonts": {
+      "heading": "Georgia, 'Times New Roman', serif",
+      "body": "Arial, Helvetica, sans-serif"
+    }
+  },
+  "github": {
+    "public_repos": 21,
+    "followers": 0,
+    "following": 0,
+    "account_created": "2024-09-02",
+    "dominant_public_language": "Python",
+    "public_language_breakdown": [
+      {
+        "language": "Python",
+        "count": 8
+      },
+      {
+        "language": "Jupyter Notebook",
+        "count": 7
+      },
+      {
+        "language": "HTML",
+        "count": 3
+      },
+      {
+        "language": "C++",
+        "count": 1
+      },
+      {
+        "language": "Java",
+        "count": 1
+      }
+    ]
+  },
+  "featured_projects": [
+    {
+      "name": "Financial Misinformation Detection & Explainable NLP",
+      "repo_url": "https://github.com/Udaya-P/FLAME_APP",
+      "public_link_verified": true,
+      "summary": "Explainable NLP system for detecting rumors and misinformation in financial claims using transformer models and a custom linguistic explanation pipeline.",
+      "status": "Current",
+      "collaboration": "Independent project",
+      "stack": [
+        "Python",
+        "RoBERTa",
+        "FinBERT",
+        "Transformers",
+        "PyTorch",
+        "spaCy",
+        "SHAP",
+        "Flask"
+      ]
+    },
+    {
+      "name": "Citrus Disease Prediction with Severity Analysis",
+      "repo_url": "https://github.com/Udaya-P/citrus-leaf-disease-detection",
+      "public_link_verified": false,
+      "summary": "AI-powered disease diagnosis system that detects citrus leaf diseases, estimates severity, and recommends treatments using deep learning.",
+      "status": "Ongoing",
+      "collaboration": "Independent project",
+      "stack": [
+        "Python",
+        "PyTorch",
+        "Flask",
+        "React",
+        "OpenCV",
+        "TensorFlow"
+      ]
+    },
+    {
+      "name": "LearnMate",
+      "repo_url": "https://github.com/Udaya-P/LearnMate",
+      "public_link_verified": true,
+      "summary": "Agentic AI career guidance assistant built using IBM watsonx to generate personalized learning and career recommendations.",
+      "status": "Completed",
+      "collaboration": "Independent project",
+      "stack": [
+        "IBM watsonx",
+        "Python",
+        "IBM Cloud",
+        "Granite Models"
+      ]
+    },
+    {
+      "name": "Employee Attrition Prediction System",
+      "repo_url": "https://github.com/pestechnology/PESU_EC_AIML_B_P16_Attrition_analysis_system_Sai-Hemanth",
+      "public_link_verified": false,
+      "summary": "HR analytics platform that predicts employee attrition and analyzes workforce factors using machine learning.",
+      "status": "Completed",
+      "collaboration": "Collaborative project in the pestechnology organization. Public contributor metadata could not be verified at generation time, so collaborator names are intentionally omitted rather than guessed.",
+      "stack": [
+        "Python",
+        "Flask",
+        "MySQL",
+        "Scikit-learn",
+        "GitHub Actions"
+      ]
+    }
+  ],
+  "tech_stack": {
+    "Languages": [
+      "Python",
+      "Java",
+      "C",
+      "SQL"
+    ],
+    "Machine Learning & AI": [
+      "PyTorch",
+      "TensorFlow",
+      "Scikit-learn",
+      "Transformers",
+      "spaCy",
+      "OpenCV",
+      "NumPy",
+      "Pandas"
+    ],
+    "Backend": [
+      "Spring Boot",
+      "Flask",
+      "REST APIs",
+      "MySQL",
+      "H2 Database"
+    ],
+    "DevOps & Tools": [
+      "Git",
+      "GitHub",
+      "GitHub Actions",
+      "Maven",
+      "Jira",
+      "Linux"
+    ],
+    "Core Computer Science": [
+      "Data Structures & Algorithms",
+      "Object-Oriented Programming",
+      "Operating Systems",
+      "DBMS",
+      "System Design",
+      "Design Patterns"
+    ]
+  },
+  "timeline": [
+    {
+      "year": "2023",
+      "event": "Started B.Tech in Computer Science (AI & ML) at PES University"
+    },
+    {
+      "year": "2024",
+      "event": "Participated in Hacknight and Space Race Hackathons"
+    },
+    {
+      "year": "2025",
+      "event": "AI & Cloud Technologies Intern at IBM SkillsBuild (Edunet Foundation)"
+    },
+    {
+      "year": "2026",
+      "event": "AI Research Intern at CCBD & CDSAML Research Center; started explainable financial misinformation research"
+    },
+    {
+      "year": "2027",
+      "event": "Goal: Software Engineer / AI Engineer"
+    }
+  ]
+}

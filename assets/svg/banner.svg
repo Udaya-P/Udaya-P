@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
+  <title>Profile Banner</title>
+  <desc>A technical banner with the profile holder&#x27;s name, role, and restrained geometric accents.</desc>
+  <defs>
+    
+  </defs>
+  <style>
+    :root {
+        --bg: #fffafc;
+        --surface: #fff1f6;
+        --text: #1f1720;
+        --muted: #6f5c67;
+        --accent: #ff8fab;
+        --accent-2: #d86f90;
+        --line: #e7c7d3;
+        --heading: Georgia, 'Times New Roman', serif;
+        --body: Arial, Helvetica, sans-serif;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #111014;
+          --surface: #1a171d;
+          --text: #f7eef2;
+          --muted: #c8b4be;
+          --accent: #ff8fab;
+          --accent-2: #ffc2d1;
+          --line: #3a2a33;
+        }
+      }
+      .bg { fill: var(--bg); }
+      .surface { fill: var(--surface); }
+      .text { fill: var(--text); }
+      .muted { fill: var(--muted); }
+      .line { stroke: var(--line); }
+      .accent { fill: var(--accent); }
+      .accent-stroke { stroke: var(--accent); }
+      .accent-2 { fill: var(--accent-2); }
+      .heading { font-family: var(--heading); }
+      .body { font-family: var(--body); }
+  </style>
+  
+  <rect class="bg" width="1600" height="420" rx="36"/>
+  <rect x="40" y="40" width="1520" height="340" rx="28" fill="none" stroke="var(--line)" stroke-width="2"/>
+  <path d="M1120 110 C1260 40, 1420 60, 1500 180" fill="none" stroke="var(--line)" stroke-width="2"/>
+  <path d="M1050 300 C1200 220, 1360 240, 1490 340" fill="none" stroke="var(--line)" stroke-width="2"/>
+  <circle cx="1280" cy="145" r="12" class="accent"/>
+  <circle cx="1450" cy="295" r="8" class="accent-2"/>
+  <g stroke="var(--line)" stroke-width="1.4" opacity="0.8">
+    <path d="M1210 110 h150"/>
+    <path d="M1210 150 h220"/>
+    <path d="M1210 190 h190"/>
+    <path d="M1210 230 h250"/>
+    <path d="M1210 270 h160"/>
+  </g>
+  <g opacity="0.9">
+    <text x="92" y="154" class="text heading" font-size="62" letter-spacing="0.5">Udaya Pragna Gangavaram</text>
+    <text x="96" y="208" class="muted body" font-size="26">B.Tech CSE (AI &amp; ML) | AI Research Intern | Software Engineering Enthusiast</text>
+    <text x="96" y="282" class="text body" font-size="22">Building intelligent systems with a software engineering mindset.</text>
+    <text x="96" y="317" class="muted body" font-size="20">Research-driven, practical, and focused on long-term technical growth.</text>
+  </g>
+  <g transform="translate(1180 108)">
+    <rect width="276" height="180" rx="24" class="surface" stroke="var(--line)" stroke-width="1.5"/>
+    <text x="28" y="48" class="muted body" font-size="14">CURRENT LENS</text>
+    <text x="28" y="86" class="text heading" font-size="32">AI + SWE</text>
+    <text x="28" y="120" class="muted body" font-size="17">Explainable NLP</text>
+    <text x="28" y="146" class="muted body" font-size="17">Backend foundations</text>
+    <text x="28" y="172" class="muted body" font-size="17">Systems thinking</text>
+  </g>
+
+</svg>

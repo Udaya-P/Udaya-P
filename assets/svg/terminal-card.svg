@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" role="img" aria-labelledby="title desc">
+  <title>Terminal Card</title>
+  <desc>A calm technical card summarizing the profile owner&#x27;s focus and current learning areas.</desc>
+  <defs>
+    
+  </defs>
+  <style>
+    :root {
+        --bg: #fffafc;
+        --surface: #fff1f6;
+        --text: #1f1720;
+        --muted: #6f5c67;
+        --accent: #ff8fab;
+        --accent-2: #d86f90;
+        --line: #e7c7d3;
+        --heading: Georgia, 'Times New Roman', serif;
+        --body: Arial, Helvetica, sans-serif;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #111014;
+          --surface: #1a171d;
+          --text: #f7eef2;
+          --muted: #c8b4be;
+          --accent: #ff8fab;
+          --accent-2: #ffc2d1;
+          --line: #3a2a33;
+        }
+      }
+      .bg { fill: var(--bg); }
+      .surface { fill: var(--surface); }
+      .text { fill: var(--text); }
+      .muted { fill: var(--muted); }
+      .line { stroke: var(--line); }
+      .accent { fill: var(--accent); }
+      .accent-stroke { stroke: var(--accent); }
+      .accent-2 { fill: var(--accent-2); }
+      .heading { font-family: var(--heading); }
+      .body { font-family: var(--body); }
+  </style>
+  
+  <rect class="bg" width="760" height="420" rx="28"/>
+  <rect x="18" y="18" width="724" height="384" rx="22" class="surface" stroke="var(--line)" stroke-width="1.5"/>
+  <circle cx="54" cy="48" r="7" class="accent"/>
+  <circle cx="78" cy="48" r="7" fill="var(--line)"/>
+  <circle cx="102" cy="48" r="7" class="accent-2"/>
+  <text x="134" y="54" class="muted body" font-size="14">focus-terminal</text>
+  <path d="M34 68 h692" class="line" stroke-width="1"/>
+  <text x="34" y="82" class="muted body" font-size="18">$ whoami</text>
+<text x="34" y="116" class="text body" font-size="18">&gt; B.Tech CSE (AI &amp; ML) | AI Research Intern | Software Engineering Enthusiast</text>
+<text x="34" y="150" class="muted body" font-size="18">$ current-focus</text>
+<text x="34" y="184" class="text body" font-size="18">&gt; Financial misinformation detection</text>
+<text x="34" y="218" class="text body" font-size="18">&gt; Explainable NLP systems</text>
+<text x="34" y="252" class="muted body" font-size="18">$ learning</text>
+<text x="34" y="286" class="text body" font-size="18">&gt; Advanced Data Structures &amp; Algorithms</text>
+<text x="34" y="320" class="text body" font-size="18">&gt; Dynamic Programming</text>
+<text x="34" y="354" class="text body" font-size="18">&gt; Backend Development with Spring Boot</text>
+<text x="34" y="388" class="text body" font-size="18">&gt; System Design</text>
+
+</svg>

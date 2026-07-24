@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 64" role="img" aria-labelledby="title desc">
+  <title>System Design Icon</title>
+  <desc>A compact icon chip for System Design.</desc>
+  <defs>
+    
+  </defs>
+  <style>
+    :root {
+        --bg: #fffafc;
+        --surface: #fff1f6;
+        --text: #1f1720;
+        --muted: #6f5c67;
+        --accent: #ff8fab;
+        --accent-2: #d86f90;
+        --line: #e7c7d3;
+        --heading: Georgia, 'Times New Roman', serif;
+        --body: Arial, Helvetica, sans-serif;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #111014;
+          --surface: #1a171d;
+          --text: #f7eef2;
+          --muted: #c8b4be;
+          --accent: #ff8fab;
+          --accent-2: #ffc2d1;
+          --line: #3a2a33;
+        }
+      }
+      .bg { fill: var(--bg); }
+      .surface { fill: var(--surface); }
+      .text { fill: var(--text); }
+      .muted { fill: var(--muted); }
+      .line { stroke: var(--line); }
+      .accent { fill: var(--accent); }
+      .accent-stroke { stroke: var(--accent); }
+      .accent-2 { fill: var(--accent-2); }
+      .heading { font-family: var(--heading); }
+      .body { font-family: var(--body); }
+  </style>
+  
+  <rect class="bg" width="160" height="64" rx="18"/>
+  <rect x="1" y="1" width="158" height="62" rx="17" class="surface" stroke="var(--line)" stroke-width="1.5"/>
+  <circle cx="32" cy="32" r="16" class="accent"/>
+  <text x="32" y="37" text-anchor="middle" fill="var(--bg)" class="body" font-size="14">SD</text>
+  <text x="58" y="37" class="text body" font-size="14">System Design</text>
+
+</svg>
