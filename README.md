@@ -38,7 +38,7 @@ Explainable NLP system for detecting rumors and misinformation in financial clai
 - Stack: `Python · RoBERTa · FinBERT · Transformers · PyTorch · spaCy · SHAP · Flask`
 - Collaboration: Independent project
 - Repository: [Udaya-P/FLAME_APP](https://github.com/Udaya-P/FLAME_APP)
-- Link status: Verified as a public repository.
+- Link status: Verified as a public repository on July 23, 2026.
 
 ### Citrus Disease Prediction with Severity Analysis
 AI-powered disease diagnosis system that detects citrus leaf diseases, estimates severity, and recommends treatments using deep learning.
@@ -47,7 +47,7 @@ AI-powered disease diagnosis system that detects citrus leaf diseases, estimates
 - Stack: `Python · PyTorch · Flask · React · OpenCV · TensorFlow`
 - Collaboration: Independent project
 - Repository: https://github.com/Udaya-P/citrus-leaf-disease-detection
-- Link status: Currently private repository
+- Link status: Public link could not be verified on July 23, 2026, so it is shown as provided.
 
 ### LearnMate
 Agentic AI career guidance assistant built using IBM watsonx to generate personalized learning and career recommendations.
@@ -56,15 +56,25 @@ Agentic AI career guidance assistant built using IBM watsonx to generate persona
 - Stack: `IBM watsonx · Python · IBM Cloud · Granite Models`
 - Collaboration: Independent project
 - Repository: [Udaya-P/LearnMate](https://github.com/Udaya-P/LearnMate)
-- Link status: Verified as a public repository.
+- Link status: Verified as a public repository on July 23, 2026.
 
 ### Employee Attrition Prediction System
 HR analytics platform that predicts employee attrition and analyzes workforce factors using machine learning.
 
 - Status: `Completed`
 - Stack: `Python · Flask · MySQL · Scikit-learn · GitHub Actions`
-- Collaboration: Collaborative project in the pestechnology organization for a Software Engineering project. 
+- Collaboration: Collaborative project in the pestechnology organization. Public contributor metadata could not be verified at generation time, so collaborator names are intentionally omitted rather than guessed.
 - Repository: https://github.com/pestechnology/PESU_EC_AIML_B_P16_Attrition_analysis_system_Sai-Hemanth
+- Link status: Public link could not be verified on July 23, 2026, so it is shown as provided.
+
+### PoolU - Ride Sharing System
+Layered Spring Boot ride-sharing system for creating and joining ride pools, managing ride status, splitting fares, and collecting post-ride reviews that update a user karma score.
+
+- Status: `Completed`
+- Stack: `Java · Spring Boot · Spring Data JPA · H2 Database · Maven · REST APIs`
+- Collaboration: Collaborative project with Pidapa Indira, Sai Hemanth M, and Sai Jaswanth Akula. Udaya implemented the PoolFactory and applied the Single Responsibility Principle (SRP).
+- Repository: [Udaya-P/Ridesharing_system_OOAD](https://github.com/Udaya-P/Ridesharing_system_OOAD)
+- Link status: Verified as a public repository on September 4, 2026.
 
 
 ## Tech Stack

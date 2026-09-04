@@ -155,6 +155,23 @@
         "Scikit-learn",
         "GitHub Actions"
       ]
+    },
+    {
+      "name": "PoolU - Ride Sharing System",
+      "repo_url": "https://github.com/Udaya-P/Ridesharing_system_OOAD",
+      "public_link_verified": true,
+      "link_verified_on": "September 4, 2026",
+      "summary": "Layered Spring Boot ride-sharing system for creating and joining ride pools, managing ride status, splitting fares, and collecting post-ride reviews that update a user karma score.",
+      "status": "Completed",
+      "collaboration": "Collaborative project with Pidapa Indira, Sai Hemanth M, and Sai Jaswanth Akula. Udaya implemented the PoolFactory and applied the Single Responsibility Principle (SRP).",
+      "stack": [
+        "Java",
+        "Spring Boot",
+        "Spring Data JPA",
+        "H2 Database",
+        "Maven",
+        "REST APIs"
+      ]
     }
   ],
   "tech_stack": {

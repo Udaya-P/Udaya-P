@@ -307,7 +307,8 @@ def build_readme(config: dict) -> str:
         stack = " · ".join(project["stack"])
         if project["public_link_verified"]:
             repo_line = f'[{project["repo_url"].replace("https://github.com/", "")}]({project["repo_url"]})'
-            verification_line = "Verified as a public repository on July 23, 2026."
+            verified_on = project.get("link_verified_on", "July 23, 2026")
+            verification_line = f"Verified as a public repository on {verified_on}."
         else:
             repo_line = project["repo_url"]
             verification_line = "Public link could not be verified on July 23, 2026, so it is shown as provided."
