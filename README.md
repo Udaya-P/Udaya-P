@@ -76,6 +76,24 @@ Layered Spring Boot ride-sharing system for creating and joining ride pools, man
 - Repository: [Udaya-P/Ridesharing_system_OOAD](https://github.com/Udaya-P/Ridesharing_system_OOAD)
 - Link status: Verified as a public repository on September 4, 2026.
 
+### Skill-Role Graph Explorer
+Graph-based career recommendation system that uses Node2Vec embeddings on a heterogeneous role-skill graph to recommend skills, roles, and realistic career transitions, including missing-skill analysis.
+
+- Status: `Completed`
+- Stack: `Python · Flask · NetworkX · Node2Vec · Word2Vec · Scikit-learn · D3.js`
+- Collaboration: Independent project
+- Repository: [Udaya-P/Skill-Role-Graph-Explore](https://github.com/Udaya-P/Skill-Role-Graph-Explore)
+- Link status: Verified as a public repository on September 4, 2026.
+
+### Distributed Real-Time Drawing Board
+Fault-tolerant collaborative drawing board built on a three-replica, Mini-RAFT-inspired backend with leader election, majority-committed stroke replication, automatic failover, restarted-node catch-up, and replayable drawing history.
+
+- Status: `Completed`
+- Stack: `Python · FastAPI · WebSockets · HTTPX · HTML · CSS · JavaScript · Docker · Docker Compose`
+- Collaboration: Collaboration details not provided.
+- Repository: [Udaya-P/Distributed-drawing-board](https://github.com/Udaya-P/Distributed-drawing-board)
+- Link status: Verified as a public repository on September 4, 2026.
+
 
 ## Tech Stack
 

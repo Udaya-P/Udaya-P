@@ -172,6 +172,44 @@
         "Maven",
         "REST APIs"
       ]
+    },
+    {
+      "name": "Skill-Role Graph Explorer",
+      "repo_url": "https://github.com/Udaya-P/Skill-Role-Graph-Explore",
+      "public_link_verified": true,
+      "link_verified_on": "September 4, 2026",
+      "summary": "Graph-based career recommendation system that uses Node2Vec embeddings on a heterogeneous role-skill graph to recommend skills, roles, and realistic career transitions, including missing-skill analysis.",
+      "status": "Completed",
+      "collaboration": "Independent project",
+      "stack": [
+        "Python",
+        "Flask",
+        "NetworkX",
+        "Node2Vec",
+        "Word2Vec",
+        "Scikit-learn",
+        "D3.js"
+      ]
+    },
+    {
+      "name": "Distributed Real-Time Drawing Board",
+      "repo_url": "https://github.com/Udaya-P/Distributed-drawing-board",
+      "public_link_verified": true,
+      "link_verified_on": "September 4, 2026",
+      "summary": "Fault-tolerant collaborative drawing board built on a three-replica, Mini-RAFT-inspired backend with leader election, majority-committed stroke replication, automatic failover, restarted-node catch-up, and replayable drawing history.",
+      "status": "Completed",
+      "collaboration": "Collaboration details not provided.",
+      "stack": [
+        "Python",
+        "FastAPI",
+        "WebSockets",
+        "HTTPX",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Docker",
+        "Docker Compose"
+      ]
     }
   ],
   "tech_stack": {
